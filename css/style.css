@@ -91,7 +91,7 @@ img {
 .hero {
     position: relative;
     height: 480px;
-    background-color: orange;
+    /* background-color: orange; */
     border-radius: 16px;
     background-image: url(/img/hero.jpg);
     background-repeat: no-repeat;
